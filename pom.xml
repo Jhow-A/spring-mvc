@@ -10,7 +10,7 @@
 	<description>Meu primeiro projeto usando Spring MVC! Top!</description>
 
 	<properties>
-		<spring.version>6.0.0</spring.version>
+		<spring.version>6.0.7</spring.version>
 	</properties>
 
 	<dependencies>
